@@ -32,11 +32,17 @@
 
 ## Input:
 
+![image](https://github.com/MohammedFaizal05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120553195/93436fcd-5f4e-4a16-ab05-c1422c69c407)
+
 ### Output:
 
+![image](https://github.com/MohammedFaizal05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120553195/289094e4-c21b-439b-8a01-21196421a81e)
 
-### Name:
-### Register Number:
+![image](https://github.com/MohammedFaizal05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120553195/e019d8a2-2205-4997-9d7a-d6fa0d271e3a)
+
+### Name: Mohammed Faizal.J
+
+### Register Number: 212222100027
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
